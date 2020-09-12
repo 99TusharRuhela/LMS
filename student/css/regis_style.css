@@ -1,0 +1,57 @@
+body {
+	background-color:GhostWhite;
+}
+#h1{
+	font-family:Lucida Console;
+	color:SlateGrey;
+	font-size:40px;
+	margin-left:320px;
+	margin-top:-3px;
+}
+#h2{
+	font-family:Lucida Console;
+	color:SlateGrey;
+	margin-left:460px;
+	margin-top:-5px;
+}
+form{
+	padding:5px;
+}
+#inp1{
+	height:32px;
+	border-radius:3px;
+	font-family:Monotype Corsiva;
+	font-size:20px;		
+	width:28%;
+	margin-bottom:10px;
+	margin-left:450px;
+	background:white;
+	border: 1px solid grey;
+	padding: 0 8px;
+	box-sizing: border-box;
+}
+#but1{
+	height:32px;
+	border-radius:3px;
+	font-family:Monotype Corsiva;
+	font-size:20px;		
+	width:8%;
+	margin-bottom:10px;
+	margin-left:575px;
+	background:white;
+	border: 1px solid grey;
+	padding: 0 8px;
+	box-sizing: border-box;
+}
+#div1{
+	width:50%;
+	height:40px;
+	font-family:Monotype Corsiva;
+	font-size:22px;		
+	padding:8px;
+	border:1px solid LightSeaGreen;
+	background-color:LightSeaGreen;
+	border-radius:3px;
+	color:white;
+	margin-left:330px;
+}
